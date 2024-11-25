@@ -1,4 +1,4 @@
-# awesome-ai-code
+# awesome-ai-dev， AI研发工具大全
 
 ## 插件
 
